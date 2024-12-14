@@ -1,0 +1,6 @@
+[submodule "Backend-file"]
+	path = Backend-file
+	url = https://github.com/begcodee/event-management-hub-backend.git
+[submodule "Fronted-file"]
+	path = Fronted-file
+	url = https://github.com/begcodee/event-management-hub-fe.git
